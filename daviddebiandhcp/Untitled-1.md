@@ -124,7 +124,7 @@ Deberías ver un mensaje que indique que el servidor está activo y en funcionam
 
 Con el comando journalctl -u isc-dhcp-server.service es un log en el cual te salen los fallos en el servicio que pongamos despues de -u pondremos el servicio del que queremos que nos saque el log, en este caso es el servidor DHCP pero podria ser cualquier otro servicio.
 
-![Local4](img/log.png)
+![Local4](img/LOG.png)
 
 
 
